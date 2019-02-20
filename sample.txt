@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 Hello... How are you Krishna
-=======
-hello...
->>>>>>> BranchA
+
+123
+
+
